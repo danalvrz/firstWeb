@@ -1,0 +1,218 @@
+
+
+.bloqueuno{
+    background-color: #1f2937;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 0px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 50px;
+    
+}
+
+.medio{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 5px;
+}
+
+
+
+.medioizq{
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+}
+
+
+.medioizq div{
+    flex: 1;
+}
+
+
+.medioder{
+    height: 90px;
+    width: auto;
+    background-color: gray;
+    align-content: stretch;
+    padding: 50px;
+    padding-top: 100px;
+
+}
+
+
+.header {
+    display: flex;
+    align-content: flex-end;
+  
+}
+
+
+
+.header  div{
+    flex: 1;
+}
+
+
+#awesome{
+    color: white;
+    font-size: xx-large;
+    font: 700 30px 'Hero', sans-serif;
+}
+
+
+#subtexto{
+    color: silver;
+
+}
+
+
+#signup{
+    border-radius: 10px;
+    box-sizing: content-box;
+    background-color: #3882f6;
+    color: seashell;
+    width: 70px;
+    margin-top: 30px;
+    padding: 10px;
+    text-align: center;
+    font: 700 15px 'Hero', sans-serif;
+}
+
+
+#headerlogo {
+    width: 250px;
+    height: auto;
+    color: white;
+}
+
+
+.headerlinks {
+    color: white;
+    display: flex;
+    justify-items: right;
+    align-items: center;   
+}
+
+
+.headerlinks div{
+
+    flex: 1;
+}
+
+.bloquedos{
+    background-color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 0px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 50px;
+}
+
+#randinf{
+    
+    margin: 30px;
+    text-align: center;
+    font: 700 30px 'Hero', sans-serif;
+
+}
+.cuadros{
+    display: flex;
+    margin: 20px;
+    margin-bottom: 5px;
+    justify-content: space-between;
+
+    
+}
+
+.cuadros div{
+    border-radius: 10px;
+    border: solid #3882f6;
+    color: white;
+    height: 100px;
+    width: 100px;
+}
+
+.comentarios{
+    display: flex;
+    justify-content: space-between;
+}
+
+.comentarios div{
+    
+    color: grey;
+    text-align: center;
+}
+
+.bloquetres{
+    background-color:lightgray;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-top: 90px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 90px;
+}
+
+#cita{
+    color:#1f2937;
+    font: 100 25px 'Hero', sans-serif;
+
+}
+
+#firma{
+    text-align: right;
+    font: 700 15px 'Hero', sans-serif;
+}
+
+.bloquecuatro{
+    border-radius: 8px;
+    justify-content: space-around;
+    display: flex;
+    background-color: #3882f6;
+    color: white; 
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+
+}
+.cuatroizq{
+    font: 100 15px 'Hero', sans-serif;
+    
+}
+
+.cuatroder{
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    border: solid white;
+
+}
+
+.bloquecinco{
+    background-color:#1f2937;
+    margin-left: 80px;
+    margin-bottom: 0px;
+    margin-right: 80px;
+    margin-top: 50px;
+    padding-top: 90px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    color: white;
+    text-align: center;
+    font: 100 12px 'Hero', sans-serif;
+
+}
+
